@@ -1,1 +1,1 @@
-console.log("Starter Kit Git Loadeda");
+console.log("Starter Kit Git Loaded");
